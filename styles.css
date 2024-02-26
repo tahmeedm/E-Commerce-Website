@@ -99,7 +99,7 @@ footer {
     width: 101.2%;
     margin: 0; 
 }
-/* Login Form Section */
+/* Login */
 
 form {
     background-color: #ddd;
@@ -140,6 +140,7 @@ input[type="password"]::placeholder {
     padding: 10px;
     border-radius: 5px;
 }
+
 .form-group a {
     color: #007BFF;
     text-decoration: none;
@@ -165,7 +166,7 @@ input[type="submit"]:hover {
     opacity: 1.0;
 }
 
-/* Signup Link */
+
 
 /*Products*/
 .products {
