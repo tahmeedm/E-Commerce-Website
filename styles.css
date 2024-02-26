@@ -65,7 +65,7 @@ main {
 
 .about-us button {
     background-color: #4CAF50; 
-    color: rgb(226, 209, 209); 
+    color: white; 
     padding: 10px; 
     border: none; 
     border-radius: 5px; 
@@ -108,7 +108,7 @@ form {
     background-color: #ddd;
     padding: 20px;
     margin: 20px auto;
-    border-radius: 10px;
+    border-radius: 5px;
     display: flex;
     flex-direction: column;
 }
